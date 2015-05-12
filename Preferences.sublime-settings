@@ -1,0 +1,21 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (Dark).tmTheme",
+	"font_size": 15.0,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Solarized Color Scheme",
+		"JSHint Gutter",
+		"MacTerminal",
+		"Markdown Preview"
+	],
+	"open_files_in_new_window": false,
+	"remember_open_files": true,
+	"rulers":
+	[
+		100
+	],
+	"theme": "Sodarized Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
